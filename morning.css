@@ -1,0 +1,20 @@
+* {
+   font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+  height: 100vh;
+   margin: 0;
+   padding: 0; 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: clamp(1rem, 0.825rem + 0.875vw, 1.875rem);
+   background: rgb(71,158,89);
+  background: linear-gradient(0deg, rgba(71,158,89,1) 0%, rgba(76,179,97,1) 8%, rgba(96,135,255,1) 9%, rgba(105,141,252,1) 43%, rgba(160,178,234,1) 76%, rgba(166,182,232,1) 85%, rgba(115,148,249,1) 100%);
+  }
+  
+  h1{
+     text-align: center;
+  }
+  p{
+     text-align: center;
+  }
